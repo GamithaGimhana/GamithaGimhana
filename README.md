@@ -99,6 +99,18 @@
   <a href="https://x.com/gamitha_gimhana" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="https://gamithagimhana.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.youtube.com/@gamiflow" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gamitha_gimhana" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://gamithagimhana.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-673AB7?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 <br clear="both">
