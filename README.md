@@ -49,6 +49,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GamithaGimhana&theme=discord&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
+<br clear="both">
+
 <!-- Tech stack with animated icons -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tech Stack
@@ -70,6 +72,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 </div>
+
+<br clear="both">
 
 <!-- Connect section with glowing effect -->
 <h2 align="center">
@@ -96,6 +100,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
+
+<br clear="both">
 
 <!-- Visitors count -->
 <div align="center">
