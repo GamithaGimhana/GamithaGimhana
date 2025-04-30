@@ -1,12 +1,24 @@
+<!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<!-- Welcome Note -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gamitha+Gimhana;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## 🌈 About Me
+<!-- About me section with custom design -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">About Me 
+</h2>
 
-- 👋 Hi, I’m **Gamitha Gimhana**
-- 👦🏻 I'm 21 years old
-- 👀 I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
+<p align="left">
+  <b>👋 Hi, I'm Gamitha Gimhana, a 21-year-old tech enthusiast from Sri Lanka</b><br>
+  <b>🎓 Currently pursuing a degree in Computer Science</b><br>
+  <b>🌐 Passionate about Web Development and Software Engineering</b><br>
+  <b>🚀 Aspiring Full Stack Developer with a love for open-source</b><br>
+  <b>🎮 Gaming enthusiast, tech video watcher, and DIY tech project explorer</b><br>
+  <b>💻 Continuously learning new technologies and frameworks</b>
+</p>
+
+<br clear="both">
 
 <!-- Animated stats section -->
 <h2 align="center">
@@ -37,35 +49,55 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GamithaGimhana&theme=discord&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
----
+<!-- Tech stack with animated icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Tech Stack
+</h2>
 
-## ✨ Skills
+<div align="center">
+  <h3>Languages</h3>
+  <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  
+  <h3>Frameworks & Tools</h3>
+  <a href="#"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hibernate-%235982a9.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+</div>
 
-**Programming Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<!-- Connect section with glowing effect -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with Me
+</h2>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gamitha-gimhana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22128073/gamitha-gimhana" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://www.facebook.com/gamitha.gimhana/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:gamitha.gimhana99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/94761218801" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://x.com/gamitha_gimhana" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-
-## ✍️ Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gamitha-gimhana/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gamitha.gimhana/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gamitha_gimhana)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamitha.gimhana99@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94761218801)
-
-
+<!-- Visitors count -->
 <div align="center">
   <br> 
     <p align="centre"><b>Visitors Count</b></p>  
@@ -73,12 +105,15 @@
   <br> 
 </div>
 
-<!-- Footer -->
+<!-- Cat On Line -->
 <div align="center">
 <p>
   <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
 </p>
 </div>
 
+<!-- Thanking Note -->
 <h2 align="center"> Thanks for visiting my profile. </h2>
+
+<!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
