@@ -1,12 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GamithaGimhana&label=Profile%20Views&color=0e75b6&style=flat)  
-![GitHub Followers](https://img.shields.io/github/followers/GamithaGimhana?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/GamithaGimhana?label=Total%20Stars&style=social)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=219ebc&center=true&vCenter=true&random=false&width=435&lines=Hey,+I'm+Gamitha+Gimhana;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
-
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gamitha+Gimhana;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 🌈 About Me
 
@@ -14,26 +8,34 @@
 - 👦🏻 I'm 21 years old
 - 👀 I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
 
----
+<!-- Animated stats section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
+</h2>
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GamithaGimhana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamithaGimhana&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Languages" />
+</div>
 
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=GamithaGimhana&show_icons=true&theme=radical" alt="GitHub Stats">
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamithaGimhana&layout=compact&theme=radical" alt="Top Languages">
-  </td>
-</tr>
-</table>
+<!-- GitHub streak section -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamithaGimhana&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
 
----
+<!-- GitHub activity section -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamithaGimhana&theme=react-dark&hide_border=true" width="100%">
+</div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=GamithaGimhana&theme=radical&no-frame=true&column=8)
+<!-- GitHub trophy section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Trophies
+</h2>
 
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GamithaGimhana&theme=discord&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -64,28 +66,19 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94761218801)
 
 
----
+<div align="center">
+  <br> 
+    <p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GamithaGimhana}/count.svg" /></p> 
+  <br> 
+</div>
 
-## 🌟 Fun Fact
+<!-- Footer -->
+<div align="center">
+<p>
+  <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+</p>
+</div>
 
-*"The only way to do great work is to love what you do." — Steve Jobs*
----
-
-![Footer Animation](https://github.com/YourUsername/YourRepository/blob/main/footer_animation.gif)
-
-<!--## Hi there 👋
-
-<!--
-**GamithaGimhana/GamithaGimhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
