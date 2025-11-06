@@ -32,7 +32,7 @@
 
 <!-- GitHub streak section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamithaGimhana&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=GamithaGimhana&theme=tokyonight-duo&hide_border=true&border_radius=2" height="175px"/>
 </div>
 
 <!-- GitHub activity section -->
