@@ -119,7 +119,7 @@
 <div align="center">
   <br> 
     <p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GamithaGimhana}/count.svg" /></p> 
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=GamithaGimhana&label=Profile%20views&color=0e75b6&style=flat" alt="GamithaGimhana" /> </p>
   <br> 
 </div>
 
