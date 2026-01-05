@@ -20,36 +20,10 @@
 
 <br clear="both">
 
-<!-- Animated stats section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Stats
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamithaGimhana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamithaGimhana&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Languages" />
-</div>
-
-<!-- GitHub streak section -->
-<div align="center">
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=GamithaGimhana&theme=tokyonight-duo&hide_border=true&border_radius=2" height="175px"/>
-</div>
-
 <!-- GitHub activity section -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamithaGimhana&theme=react-dark&hide_border=true" width="100%">
 </div>
-
-<!-- GitHub trophy section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30" height="30" style="margin-right: 10px;"> GitHub Trophies
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GamithaGimhana&theme=discord&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br clear="both">
 
 <!-- Tech stack with animated icons -->
 <h2 align="center">
