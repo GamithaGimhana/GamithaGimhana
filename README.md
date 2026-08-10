@@ -10,7 +10,7 @@
 </h2>
 
 <p align="left">
-  <b>👋 Hi, I'm Gamitha Gimhana, a 21-year-old tech enthusiast from Sri Lanka</b><br>
+  <b>👋 Hi, I'm Gamitha Gimhana, a 22-year-old tech enthusiast from Sri Lanka</b><br>
   <b>🎓 Currently pursuing a degree in Computer Science</b><br>
   <b>🌐 Passionate about Web Development and Software Engineering</b><br>
   <b>🚀 Aspiring Full Stack Developer with a love for open-source</b><br>
